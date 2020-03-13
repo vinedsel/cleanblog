@@ -39,6 +39,7 @@
     "express-fileupload": "^1.1.6",
     "express-session": "^1.17.0",
     "jquery": "3.4.1",
+    "mongo": "^0.1.0",
     "mongoose": "^5.8.9",
     "mongoose-unique-validator": "^2.0.3",
     "popper.js": "^1.16.0"
