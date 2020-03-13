@@ -31,7 +31,7 @@ const logoutController = require('./controllers/logout');
 
 const validateMiddleWare = require("./middleware/validateMiddleWare");
 
-mongoose.connect('mongodb://localhost/my_database', {useNewUrlParser: true, useUnifiedTopology: true});
+mongoose.connect('mongodb+srv://admin-00:Is0lation1@cluster0-motsb.mongodb.net/my_database', {useNewUrlParser: true, useUnifiedTopology: true});
 
 app.set('view engine', 'ejs');
 
