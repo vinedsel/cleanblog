@@ -58,5 +58,8 @@
     "merge-stream": "2.0.0",
     "nodemon": "^2.0.2"
   },
-  "main": "gulpfile.js"
+  "main": "gulpfile.js",
+  "engines": {
+    "node": "12.12.0"
+  }
 }
