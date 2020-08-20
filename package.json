@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "5.10.2",
-    "bcrypt": "^3.0.8",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.19.0",
     "bootstrap": "^4.4.1",
     "connect-flash": "^0.1.1",
