@@ -35,7 +35,7 @@
     "bootstrap": "^4.4.1",
     "connect-flash": "^0.1.1",
     "ejs": "^3.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-fileupload": "^1.1.6",
     "express-session": "^1.17.0",
     "heroku": "^7.39.0",
